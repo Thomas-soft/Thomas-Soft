@@ -14,7 +14,7 @@ I work with a variety of tools and technologies to deliver full-fledged solution
 
 ### 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-soft&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 
 
