@@ -1,10 +1,4 @@
 ## 🚀 FullStack developer (frontend+)
 
 **⚡️ Tech Stack :**
-- React
-- ThreeJS
-- NodeJS
-- Django
-- Docker
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,c,c++)](https://skillicons.dev)
