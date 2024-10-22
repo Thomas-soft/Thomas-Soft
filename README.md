@@ -31,7 +31,7 @@ Here are a few standout projects that I've built or contributed to:
 
 ### 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-soft&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 
