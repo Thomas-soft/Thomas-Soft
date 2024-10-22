@@ -12,26 +12,11 @@ I work with a variety of tools and technologies to deliver full-fledged solution
 
 [![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,c,cpp)](https://skillicons.dev)
 
-### ⚡ About Me
-
-- 🔭 Currently working on **[Your current project]**
-- 🌱 Learning and experimenting with **Three.js** and **Web3**
-- 💡 I enjoy building side projects and contributing to open-source
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, or anything web-related
-- 📫 Reach me via **[your email](mailto:youremail@example.com)** or connect with me on **[LinkedIn](https://linkedin.com/in/your-profile)**
-- ⚙️ Fun Fact: I love tinkering with 3D visualization and **Game Development**
-
-### 🛠️ Featured Projects
-
-Here are a few standout projects that I've built or contributed to:
-
-- **[Project 1](https://github.com/your-username/project1)**: A powerful web application built with React, Node.js, and MongoDB. [Short description of the project].
-- **[Project 2](https://github.com/your-username/project2)**: An innovative tool using Three.js for real-time 3D graphics. [Short description of the project].
-- **[Project 3](https://github.com/your-username/project3)**: A Django-powered platform for managing [type of application]. [Short description of the project].
-
 ### 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-soft&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
+
 
 ### 🔥 GitHub Streak
 
