@@ -20,7 +20,7 @@ I work with a variety of tools and technologies to deliver full-fledged solution
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thomas-soft&theme=radical)](https://git.io/streak-stats)
 
 ---
 
