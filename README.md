@@ -1,5 +1,3 @@
-Here is my GitHub readme.md:
-
 ## 🚀 FullStack developer (frontend+)
 
 ### ⚡️ Tech Stack :
