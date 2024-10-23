@@ -12,4 +12,3 @@
 | **Low-Level Programming**     | C, C++, Linux, Bash                                          |
 | **Containerization**          | Docker                                                       |
 | **3D Development**            | Three.js                                                     |
-| **General Skills**            | End-to-end solutions, optimization, quality assurance        |
