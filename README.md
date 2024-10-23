@@ -2,7 +2,7 @@
 
 ### ⚡️ Tech Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,c,cpp,python,selenium)](https://skillicons.dev)
 
 | **Skill Area**                | **Technologies**                                             |
 |-------------------------------|--------------------------------------------------------------|
