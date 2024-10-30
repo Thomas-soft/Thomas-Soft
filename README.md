@@ -1,6 +1,7 @@
 ## 🚀 FullStack developer (frontend+) | Student at **42**
----------------------------------------------------------
 Full Stack developer with a preference for the frontend. Passionate about creating intuitive, high-performance interfaces, I'm proficient in JavaScript, React, and take care to build robust, modern web applications. Always ready to exchange and collaborate!
+
+---------------------------------------------------------
 
 ### ⚡️ Tech Stack :
 
