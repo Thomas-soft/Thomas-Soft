@@ -5,7 +5,7 @@ Full Stack developer with a preference for the frontend. Passionate about creati
 
 ### ⚡️ Tech Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,c,cpp,python,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,react,vuejs,threejs,nodejs,django,c,cpp,python,selenium)](https://skillicons.dev)
 
 
 | **Skill Area**                   | **Technologies**                                             |
