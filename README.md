@@ -10,7 +10,7 @@ Full Stack developer with a preference for the frontend. Passionate about creati
 
 | **Skill Area**                   | **Technologies**                                             |
 |----------------------------------|--------------------------------------------------------------|
-| **Web Development**              | React, Node.js, Django                                       |
+| **Web Development**              | React, Vuejs, Node.js, Django                                       |
 | **Scripting & Automation**       | Python, Selenium                                             |
 | **Low-Level Programming**        | C, C++, Linux, Bash                                          |
 | **Containerization**             | Docker                                                       |
