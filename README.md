@@ -2,7 +2,7 @@
 
 ## 🤖 Automation & Web Scraping Specialist
 
-I build intelligent solutions in Python to automate tasks, scrape websites, and store data in CSV files. Passionate about stealth techniques, I leverage tools like undetected-chromedriver, PyAutoGUI, and more to ensure my automation remains undetectable. I also integrate language models (LLMs) to enhance data extraction and analysis workflows.
+I build intelligent solutions in Python to automate tasks, scrape websites, and store data in CSV files. Passionate about stealth techniques, I leverage tools like undetected-chromedriver, PyAutoGUI, and more to ensure my automation remains undetectable. I also integrate language models (LLMs) to enhance data extraction and analysis workflows, including running high-performing LLMs entirely locally with minimal resource consumption using LM Studio.
 
 ---
 
@@ -10,14 +10,14 @@ I build intelligent solutions in Python to automate tasks, scrape websites, and 
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,docker,postman,js,html,raspberrypi,arduino,bash,cpp,c)](https://skillicons.dev)
 
-| **Skill Areas**                      | **Technologies**                                                      |
-|--------------------------------------|-----------------------------------------------------------------------|
-| **Automation & Bots**                | Python, PyAutoGUI                                                     |
-| **Web Scraping**                     | Undetected-chromedriver, Requests                                     |
-| **Data Management**                  | CSV, Pandas, SQLite                                                   |
-| **LLM Integration**                  | OpenAI API, LM Studio                                                 |
-| **Low-Level Programming**            | C, C++                                                                |
-| **Deployment & Containerization**    | Docker                                                                |
+| **Skill Areas**                     | **Technologies**                                          |
+|-------------------------------------|-----------------------------------------------------------|
+| **Automation & Bots**               | Python, PyAutoGUI                                         |
+| **Web Scraping**                    | Undetected-chromedriver, Requests                         |
+| **Data Management**                 | CSV, Pandas, SQLite                                       |
+| **LLM Integration**                 | OpenAI API, LM Studio                                     |
+| **Low-Level Programming**           | C, C++                                                    |
+| **Deployment & Containerization**   | Docker                                                    |
 
 ---
 
@@ -26,6 +26,7 @@ I build intelligent solutions in Python to automate tasks, scrape websites, and 
 - **Stealth Automation Bots**: Developed Python scripts that automate repetitive tasks while evading detection using advanced libraries.
 - **Expert Web Scraping**: Extracted and structured data from various websites, storing it in CSV format for in-depth analysis.
 - **LLM-Enhanced Workflows**: Integrated language models to optimize scraping strategies and data analysis pipelines.
+- **Local LLM Execution with LM Studio**: Leverage LM Studio to run high-performing language models entirely locally with minimal resource consumption.
 
 ---
 
