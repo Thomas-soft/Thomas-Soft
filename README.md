@@ -1,4 +1,4 @@
-# Hi, I'm [Thomas Soft]!
+# Hi, I'm Thomas Soft!
 
 ## 🤖 Automation & Web Scraping Specialist
 
@@ -39,4 +39,4 @@ Design and deploy advanced, stealth automation solutions to streamline data coll
 
 Interested in collaborating or discussing innovative projects? Feel free to reach out!
 
-[LinkedIn](#https://www.linkedin.com/in/thomas-tofil-619653296/) | [Email](mailto:dev.thomas.soft+re@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thomas-tofil-619653296/) | [Email](mailto:dev.thomas.soft+re@gmail.com)
