@@ -8,7 +8,7 @@ I build intelligent solutions in Python to automate tasks, scrape websites, and 
 
 ### ⚡️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,docker,beautifulsoup,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,docker,postman,js,html,raspberrypi,arduino,bash,cpp,c)](https://skillicons.dev)
 
 | **Skill Areas**                      | **Technologies**                                                      |
 |--------------------------------------|-----------------------------------------------------------------------|
