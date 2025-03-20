@@ -8,12 +8,12 @@ I build intelligent solutions in Python to automate tasks, scrape websites, and 
 
 ### ⚡️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,docker,postman,js,html,raspberrypi,arduino,bash,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,beautifulsoup,docker,postman,js,html,raspberrypi,arduino,bash,cpp,c)](https://skillicons.dev)
 
 | **Skill Areas**                     | **Technologies**                                          |
 |-------------------------------------|-----------------------------------------------------------|
 | **Automation & Bots**               | Python, PyAutoGUI                                         |
-| **Web Scraping**                    | Undetected-chromedriver, Requests                         |
+| **Web Scraping**                    | Undetected-chromedriver, Beautifulsoup, Requests          |
 | **Data Management**                 | CSV, Pandas, SQLite                                       |
 | **LLM Integration**                 | OpenAI API, LM Studio                                     |
 | **Low-Level Programming**           | C, C++                                                    |
