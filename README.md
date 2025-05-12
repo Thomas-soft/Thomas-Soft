@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Thomas-Soft 👋
 
 I’m a student at 42, passionate about **programming**, **artificial intelligence**, and **building digital products**. Currently, I’m focused on developing **micro-SaaS** products and integrating **no-code** tools to create simple, efficient solutions powered by AI.
 
